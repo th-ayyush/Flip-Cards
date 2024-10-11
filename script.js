@@ -1,5 +1,7 @@
+
 var flipCheck = 0;
 
+//Logic starts here
 function rotateCards() {
   if (flipCheck === 0) {
     document.getElementById("front-2").classList.add("showGreen");
