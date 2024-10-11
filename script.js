@@ -1,4 +1,4 @@
-
+//initialise
 var flipCheck = 0;
 
 //Logic starts here
